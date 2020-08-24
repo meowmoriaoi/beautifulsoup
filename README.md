@@ -1,4 +1,4 @@
 # BeautifuSsoup
 
 import requests
-from bs4 import BeautifulSoup
+  from bs4 import BeautifulSoup
